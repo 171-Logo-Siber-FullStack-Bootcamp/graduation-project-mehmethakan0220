@@ -1,0 +1,14 @@
+[
+    {
+        "name":"404 Page",
+        "link":"404.html"
+    },
+    {
+        "name":"Blank Page",
+        "link":"blank.html"
+    },
+    {
+        "name":"Funny Page",
+        "link":"funny.html"
+    }
+]
