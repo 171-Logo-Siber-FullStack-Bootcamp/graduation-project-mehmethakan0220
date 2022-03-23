@@ -1,11 +1,24 @@
 <template>
-        <!-- Header-->
-        <header class="bg-dark py-5">
-            <div class="container px-4 px-lg-5 my-5">
-                <div class="text-center text-white">
-                    <h1 class="display-4 fw-bolder">Shop in style</h1>
-                    <p class="lead fw-normal text-white-50 mb-0">With this shop hompeage template</p>
+    <!-- Header-->
+    <header class="bg-dark py-5">
+        <div class="container px-4 px-lg-5 my-3">
+            <div class="col-8 mx-auto text-center text-white">
+                <div class="input-group">
+                    <input
+                        type="text"
+                        class="form-control"
+                        placeholder="Recipient's username"
+                        aria-label="Recipient's username"
+                        aria-describedby="basic-addon2"
+                    />
+                    <div class="input-group-append">
+                        <button class="btn btn-outline-info" type="button"><i class="fa-brands fa-searchengin fa-2xl"></i></button>
+                        
+
+                    </div>
                 </div>
+               
             </div>
-        </header>
+        </div>
+    </header>
 </template>
