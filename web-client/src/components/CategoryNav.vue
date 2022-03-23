@@ -5,8 +5,24 @@
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
-                        <li alt="hello" class="nav-item" v-for="item in categories" :key="item.id" @mouseover="onHoverCategory(item)" @mouseleave="hoverText='Hepsi Şurada her zaman yanında...'" ><a class="nav-link active" aria-current="page" href="#!">{{item.title}}</a></li>
+                        <li alt="hello" class="nav-item"  ><a class="nav-link active" aria-current="page" href="#!"></a></li>
                         
+                        <li class="nav-item dropdown" v-for="item in categories" :key="item.id" @click="onClickListSubCategories(item)">
+                        <a
+                            class="nav-link dropdown-toggle"
+                            id="navbarDropdown"
+                            href="#"
+                            role="button"
+                            data-bs-toggle="dropdown"
+                            aria-expanded="false"
+                        >{{item.title}}</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li v-for="subItem in subCategoryCache" :key="subItem.id">
+                                <a class="dropdown-item" href="#!">{{subItem.title}}</a>
+                            </li>
+
+                        </ul>
+                    </li>
                         
                     </ul>
                     
@@ -15,7 +31,6 @@
             </div>
             
         </nav>
-        <div class="hovertext"> {{hoverText}}</div>
 </template>
 
 <script>
@@ -25,7 +40,8 @@ export default {
     data() {
         return {
             categories: [],
-            hoverText:"Hepsi Şurada her zaman yanında..."
+            subCategories:[],
+            subCategoryCache:[]
         }
     },
 
@@ -34,13 +50,29 @@ export default {
 
         Api.getCategories().then(res => {
             this.categories = res;
-        })
+            this.categories.map(e=>{
+                    Api.getCategoriesByPath(e.path).then(res=>{
+                        this.subCategories.push(res)
+                    });
+                
+            })
+        });
+
+
+        
+
 
     },
     methods:{
-        onHoverCategory(e){
-            this.hoverText= e.descript;
-            console.log(this.hoverText)
+        onClickListSubCategories(item){
+            this.subCategories.forEach(i => {
+                i.forEach(j=>{
+                    if(item.id == j.id){
+                        this.subCategoryCache = i;
+                    }
+                })
+            });
+
         }
     }
 
