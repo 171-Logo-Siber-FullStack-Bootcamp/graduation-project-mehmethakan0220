@@ -6,3 +6,11 @@
         <!-- Bootstrap core JS-->
 
 </template>
+
+
+<script>
+
+export default{
+    name:"FooterComponent"
+}
+</script>

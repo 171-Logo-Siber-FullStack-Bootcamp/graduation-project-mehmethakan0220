@@ -16,7 +16,10 @@
             <div class="card-body p-4">
                 <div class="text-center">
                     <!-- Product name-->
-                    <h5 class="fw-bolder">{{ product.title }}</h5>
+
+                    <h5 @click="redirectProductDetails(product)" class="fw-bolder">{{ product.title }}</h5>
+                    
+            
                     <!-- Product reviews-->
                     <div class="d-flex justify-content-center small text-warning mb-2">
                         <div class="bi-star-fill"></div>
@@ -44,12 +47,12 @@
 
 <script>
 export default {
-    props: ["product"],
-    mounted() {
-        console.log(">>>>", this.product)
-    },
+    name:"ProductComponent",
+    props:["product"],
     methods:{
-        
+        redirectProductDetails(product){
+            this.$router.push({ name:"ProductDetails", params:{ id:product.id}})
+        }
     }
 }
 </script>

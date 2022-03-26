@@ -7,7 +7,7 @@
                     <input
                         type="text"
                         class="form-control"
-                        placeholder="Recipient's username"
+                        placeholder="Find with ElasticSearch"
                         aria-label="Recipient's username"
                         aria-describedby="basic-addon2"
                     />

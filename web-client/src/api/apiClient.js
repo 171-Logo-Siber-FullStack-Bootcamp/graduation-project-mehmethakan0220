@@ -33,6 +33,12 @@ async function getProducts(url) {
 async function getCategories(url) {
   return await getData(url);
 }
+async function getCategoriesByPath(url) {
+  return await getData(url);
+}
+async function getProductsByCategoryId(url) {
+  return await getData(url);
+}
 function getAllNews(url) {
   return getData(url);
 }
@@ -83,9 +89,8 @@ async function getData(url) {
   .then((res) => {
     return res.data;
   }).catch(err=>{
-      console.error("><>>>:",err);
+      console.error("apiClientError:",err);
   });
-  console.log("getDataFunction:",result);
   return result;
 }
 
@@ -118,7 +123,14 @@ function setConfig(token) {
 export const Api = {
 
   getProducts: async () => await  getProducts("/api/product" ),
+  getProductById: async (id) => await  getProducts("/api/product/"+id),
+  getProductsByCategoryId: async (id) => await getProductsByCategoryId("/api/product/categoryid/"+id),
+  
   getCategories: async () => await  getCategories("/api/product/category" ),
+  getCategoriesByPath: async (path) => await  getCategoriesByPath("/api/product/category/"+path),
+
+
+
   getProject: (id) => getProducts("/api/project/" + id),
   getAllNews: () => getAllNews("/news"),
   getNews: (id) => getNews("/news/" + id),

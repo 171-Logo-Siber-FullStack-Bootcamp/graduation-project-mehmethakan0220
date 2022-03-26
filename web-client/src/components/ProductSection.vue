@@ -5,16 +5,16 @@
             <div
                 class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center"
              >
-              <TheProduct :product="product" v-for="product in products" :key="product.id" />
+              <Product :product="product" v-for="product in products" :key="product.id" />
             </div>
         </div>
     </section>
 </template>
 
-
 <script>
+
 import Api from '../api/apiClient';
-import TheProduct from './TheProduct.vue';
+import Product from './Product.vue';
 
 export default {
     data() {
@@ -28,6 +28,7 @@ export default {
         });
     
     },
-    components: { TheProduct }
+    components: { Product }
 }
+
 </script>
