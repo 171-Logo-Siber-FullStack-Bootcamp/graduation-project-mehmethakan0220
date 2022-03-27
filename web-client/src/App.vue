@@ -1,9 +1,11 @@
 <template>
   <div>
-    <navbar-comp></navbar-comp>
+
     <header-comp></header-comp>
+    <search-comp></search-comp>
     <router-view></router-view>
     <footer-comp></footer-comp>
+    
   </div>
 </template>
 

@@ -37,6 +37,11 @@ const routes =[
         name:"NewArrivals",
         path:"/new-arrivals",
         component: ()=>import("@/components/ProductSection")
+    },
+    {
+        name:"LoginPage",
+        path:"/login",
+        component:()=>import("@/components/LoginPage")
     }
 ]
 

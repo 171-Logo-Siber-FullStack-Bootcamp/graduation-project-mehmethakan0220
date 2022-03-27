@@ -17,9 +17,11 @@
                 <div class="text-center">
                     <!-- Product name-->
 
-                    <h5 @click="redirectProductDetails(product)" class="fw-bolder">{{ product.title }}</h5>
-                    
-            
+                    <h5
+                        @click="redirectProductDetails(product)"
+                        class="fw-bolder"
+                    >{{ product.title }}</h5>
+
                     <!-- Product reviews-->
                     <div class="d-flex justify-content-center small text-warning mb-2">
                         <div class="bi-star-fill"></div>
@@ -33,26 +35,25 @@
                 </div>
             </div>
 
-           
-
             <!-- Product actions-->
-            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                <div class="text-center">
-                    <a class="btn btn-outline-dark mt-auto" href="#">Sepete Ekle</a>
-                </div>
-            </div>
+            <AddToCard :productInfo="product" />
         </div>
     </div>
 </template>
 
 <script>
+import AddToCard from '@/components/AddToCard.vue';
 export default {
-    name:"ProductComponent",
-    props:["product"],
-    methods:{
-        redirectProductDetails(product){
-            this.$router.push({ name:"ProductDetails", params:{ id:product.id}})
-        }
+    name: "ProductComponent",
+    props: ["product"],
+    methods: {
+        redirectProductDetails(product) {
+            this.$router.push({ name: "ProductDetails", params: { id: product.id } })
+        },
+
+    },
+    components: {
+        AddToCard
     }
 }
 </script>

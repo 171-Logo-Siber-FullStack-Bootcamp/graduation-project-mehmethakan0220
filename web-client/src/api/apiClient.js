@@ -1,7 +1,7 @@
 import  axios from "axios";
 
-function login(url, data) {
-  return saveToken(url, data);
+async function login(url, data) {
+  return await saveToken(url, data);
 }
 
 function basicLogin(url) {
@@ -39,36 +39,39 @@ async function getCategoriesByPath(url) {
 async function getProductsByCategoryId(url) {
   return await getData(url);
 }
-function getAllNews(url) {
-  return getData(url);
+
+async function addToUsersCard(url,data) {
+  return await postData(url,data);
 }
-function getNews(url) {
-  return getData(url);
+
+async function getCardItemsByUserId(url,data) {
+  return await postData(url,data);
 }
-function deleteNewsItem(url, config) {
-  config = getConfig();
-  deleteData(url, config);
-}
+
+// function deleteNewsItem(url, config) {
+//   config = getConfig();
+//   deleteData(url, config);
+// }
 
 
 
-function deleteProject(url, config) {
-  config = getConfig();
-  deleteData(url, config);
-}
+// function deleteProject(url, config) {
+//   config = getConfig();
+//   deleteData(url, config);
+// }
 
-function deleteData(url, config) {
-  let result = axios
-    .delete(url, config)
-    .then((res) => {
-      console.log(res.data);
-      return res.data;
-    })
-    .catch((err) => {
-      return console.log(err);
-    });
-  return result;
-}
+// function deleteData(url, config) {
+//   let result = axios
+//     .delete(url, config)
+//     .then((res) => {
+//       console.log(res.data);
+//       return res.data;
+//     })
+//     .catch((err) => {
+//       return console.log(err);
+//     });
+//   return result;
+// }
 
 function postData(url, data) {
   const config = getConfig();
@@ -94,17 +97,18 @@ async function getData(url) {
   return result;
 }
 
-function saveToken(url, data) {
-  axios
+async function saveToken(url, data) {
+  let result = await axios
     .post(url, data)
     .then((res) => {
       setConfig(res.data.token);
-      window.location.href = "/";
+      // window.location.href = "/";
       return res.data;
     })
     .catch((err) => {
       console.log("Login failed" + err);
     });
+    return result;
 }
 
 function getConfig() {
@@ -129,16 +133,16 @@ export const Api = {
   getCategories: async () => await  getCategories("/api/product/category" ),
   getCategoriesByPath: async (path) => await  getCategoriesByPath("/api/product/category/"+path),
 
+  addToUsersCard:async(product) => await addToUsersCard("/api/sepet/",product),
+  getCardItemsByUserId: async(data) => await getCardItemsByUserId("/api/sepet/all",data),
 
 
-  getProject: (id) => getProducts("/api/project/" + id),
-  getAllNews: () => getAllNews("/news"),
-  getNews: (id) => getNews("/news/" + id),
+
+  
   register: (data) => register("/register", data),
-  login: (data) => login("/api/login", data),
+  login: async (data) => await login("/api/login", data),
   basicLogin: () => basicLogin("/api/login"),
-  deleteNewsItem: (id) => deleteNewsItem("/news/" + id),
-  deleteProject: (id) => deleteProject("/project/" + id),
+
 
 };
 
