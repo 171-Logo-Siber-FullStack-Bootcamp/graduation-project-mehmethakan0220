@@ -48,6 +48,10 @@ async function getCardItemsByUserId(url,data) {
   return await postData(url,data);
 }
 
+async function getAllImagesByProductId(url) {
+  return await postData(url);
+}
+
 // function deleteNewsItem(url, config) {
 //   config = getConfig();
 //   deleteData(url, config);
@@ -72,6 +76,8 @@ async function getCardItemsByUserId(url,data) {
 //     });
 //   return result;
 // }
+
+
 
 function postData(url, data) {
   const config = getConfig();
@@ -136,7 +142,7 @@ export const Api = {
   addToUsersCard:async(product) => await addToUsersCard("/api/sepet/",product),
   getCardItemsByUserId: async(data) => await getCardItemsByUserId("/api/sepet/all",data),
 
-
+  getAllImagesByProductId: async(id) => await getAllImagesByProductId("/api/images/"+id),
 
   
   register: (data) => register("/register", data),

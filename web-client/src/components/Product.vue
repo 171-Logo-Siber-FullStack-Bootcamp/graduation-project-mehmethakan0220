@@ -7,11 +7,13 @@
                 style="top: 0.5rem; right: 0.5rem"
             >Sale</div>
             <!-- Product image-->
-            <img
+            <!-- <img
                 class="card-img-top"
                 src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg"
                 alt="..."
-            />
+            /> -->
+
+            <SimpleCarousel :images="images" />
             <!-- Product details-->
             <div class="card-body p-4">
                 <div class="text-center">
@@ -43,9 +45,16 @@
 
 <script>
 import AddToCard from '@/components/AddToCard.vue';
+import SimpleCarousel from '@/components/SimpleCarousel.vue';
+import Api from '@/api/apiClient';
 export default {
     name: "ProductComponent",
     props: ["product"],
+    data(){
+        return{
+            images:[]
+        }
+    },
     methods: {
         redirectProductDetails(product) {
             this.$router.push({ name: "ProductDetails", params: { id: product.id } })
@@ -53,7 +62,13 @@ export default {
 
     },
     components: {
-        AddToCard
+        AddToCard,
+        SimpleCarousel
+    },
+    created(){
+        Api.getAllImagesByProductId(this.product.id).then(res=>{
+            this.images = res;
+        })
     }
 }
 </script>

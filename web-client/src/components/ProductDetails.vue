@@ -4,11 +4,12 @@
         <div class="container px-4 px-lg-5 my-5">
             <div class="row gx-4 gx-lg-5 align-items-center">
                 <div class="col-md-6">
-                    <img
+                    <!-- <img
                         class="card-img-top mb-5 mb-md-0"
                         src="https://dummyimage.com/600x700/dee2e6/6c757d.jpg"
                         alt="..."
-                    />
+                    /> -->
+                    <SimpleCarousel :height="resize.height" :images="images" />
                 </div>
                 <div class="col-md-6">
                     <div class="small mb-1">SKU: BST-498</div>
@@ -44,16 +45,28 @@
 <script>
 import RelatedProduct from '@/components/RelatedProducts.vue';
 import Api from '@/api/apiClient';
+import SimpleCarousel from '@/components/SimpleCarousel.vue';
 export default {
     data() {
         return {
             product: {
                 title:"",
             },
-            relatedProducts:[]
+            relatedProducts:[],
+            images:[],
+            resize:{
+                height:"600px"
+            }
 
         }
     },
+
+    /**
+     *     justify-content: center;
+    align-items: center;
+    width: 100% !important;
+    height: 200px !important;
+    object-fit: fill !important;*/
     created() {
 
         Api.getProductById(this.$route.params.id).then(res => {
@@ -62,12 +75,17 @@ export default {
             Api.getProductsByCategoryId(this.product.category_id).then(res=>{
                 this.relatedProducts = res;
         })
+        Api.getAllImagesByProductId(this.product.id).then(res=>{
+            this.images = res;
         })
+        })
+        
 
     },
     components: {
-        RelatedProduct
-    }
+    RelatedProduct,
+    SimpleCarousel
+}
 }
 </script>
 
