@@ -1,0 +1,1424 @@
+2022-03-28 18:41:01 [[32minfo[39m]: 	hello 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 18:42:49 [[32minfo[39m]: 	hello 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 18:43:32 [[32minfo[39m]: 	hello 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 18:47:05 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 18:47:05 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 18:47:05 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 18:47:31 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 18:47:31 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 18:47:31 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 18:58:14 [[33mwarn[39m]: 	Trying to connect postgresql database 
+2022-03-28 18:58:14 [[32minfo[39m]: 	Connected to the database:star2online 
+2022-03-28 18:58:30 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 18:58:30 [[32minfo[39m]: 	Connected to the database:star2online 
+2022-03-28 18:58:45 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 18:58:45 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 18:58:50 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 18:58:50 [[31merror[39m]: 	Connected to the database:star2online. 
+2022-03-28 18:59:08 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 18:59:08 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 18:59:15 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 18:59:15 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 19:00:01 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 19:00:01 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 19:01:37 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 19:01:37 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 19:01:38 [[32minfo[39m]: 	Elasticsearch is running [object Object] 
+2022-03-28 19:02:02 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 19:02:02 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 19:02:02 [[32minfo[39m]: 	Elasticsearch is running 		 details:{"name":"monster","cluster_name":"elasticsearch","cluster_uuid":"_WJFo-emS2OOSyuO7a4A5A","version":{"number":"8.1.0","build_flavor":"default","build_type":"deb","build_hash":"3700f7679f7d95e36da0b43762189bab189bc53a","build_date":"2022-03-03T14:20:00.690422633Z","build_snapshot":false,"lucene_version":"9.0.0","minimum_wire_compatibility_version":"7.17.0","minimum_index_compatibility_version":"7.0.0"},"tagline":"You Know, for Search"}
+2022-03-28 19:03:09 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 19:03:09 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 19:03:09 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 19:04:04 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 19:04:04 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 19:04:04 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 19:04:27 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 19:04:27 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 19:04:28 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 19:04:37 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 19:04:37 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 19:04:38 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 19:04:42 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 19:04:42 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 19:04:42 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 19:05:53 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 19:05:53 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 19:05:53 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 19:08:08 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 19:08:08 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 19:08:08 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 19:08:08 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 19:08:16 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 19:08:16 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 19:08:16 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 19:08:16 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 19:10:37 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 19:10:37 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 19:10:37 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 19:10:37 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 19:13:58 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 19:13:58 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 19:13:58 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 19:13:58 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 19:14:37 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 19:14:37 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 19:14:38 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 19:14:38 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 19:15:47 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 19:15:47 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 19:15:48 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 19:15:48 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 19:15:57 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:15:57 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:15:57 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:16:26 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:16:26 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:16:26 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:18:35 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:18:35 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:18:35 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:19:00 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:19:00 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:19:00 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:24:54 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:24:54 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:24:54 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:25:01 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:25:01 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:25:01 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:27:33 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:27:33 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:27:33 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:27:44 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:27:44 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:27:44 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:28:34 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:28:34 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:28:34 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:31:23 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:31:23 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:31:23 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:31:41 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:31:41 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:31:41 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:32:48 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:32:48 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:32:48 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:33:46 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:33:46 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:33:46 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:36:51 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:36:51 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:36:51 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:47:09 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:47:09 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:47:09 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:47:25 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:47:25 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:47:25 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:47:52 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:47:52 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:47:52 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:48:16 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:48:16 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:48:16 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:48:52 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:48:52 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:48:52 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:50:03 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:50:03 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 19:50:03 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:11:09 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 20:11:09 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 20:11:09 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 20:11:09 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 20:32:22 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:32:22 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:32:22 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:33:08 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:33:08 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:33:08 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:34:47 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:34:47 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:34:47 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:35:39 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:35:39 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:35:39 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:35:47 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:35:47 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:35:47 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:35:56 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:35:56 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:35:56 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:36:19 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:36:19 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:36:19 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:39:24 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:39:24 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:39:24 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:39:38 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:39:38 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:39:38 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:39:43 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:39:43 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 20:39:43 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-28 21:13:23 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:13:23 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:13:23 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:13:23 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:15:30 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:15:30 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:15:30 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:15:30 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:16:27 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:16:27 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:16:27 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:16:27 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:16:32 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:16:32 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:16:32 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:16:32 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:16:33 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:16:33 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:16:33 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:16:33 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:16:36 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:16:36 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:16:36 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:16:36 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:16:37 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:16:37 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:16:37 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:16:37 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:16:38 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:16:38 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:16:38 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:16:38 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:16:39 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:16:39 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:16:39 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:16:39 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:16:40 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:16:40 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:16:40 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:16:40 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:17:40 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:17:40 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:17:40 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:17:40 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:17:45 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:17:45 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:17:45 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:17:45 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:17:51 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:17:51 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:17:51 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:17:51 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:17:54 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:17:54 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:17:54 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:17:54 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:17:57 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:17:57 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:17:57 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:17:57 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:18:00 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:18:00 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:18:01 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:18:01 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:18:04 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:18:04 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:18:05 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:18:05 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:18:12 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:18:12 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:18:12 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:18:12 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:18:24 [[31merror[39m]: 	getProductById failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/07.productConroller.js"}
+2022-03-28 21:19:09 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:19:09 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:19:09 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:19:09 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:19:11 [[31merror[39m]: 	getProductById failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/07.productConroller.js"}
+2022-03-28 21:19:21 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:19:21 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:19:22 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:19:22 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:19:27 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:19:27 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:19:27 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:19:27 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:19:41 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:19:41 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:19:41 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:19:41 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:19:43 [[31merror[39m]: 	getProductById failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/07.productConroller.js"}
+2022-03-28 21:19:53 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:19:53 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:19:53 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:19:53 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:21:13 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:21:13 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:21:13 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:21:13 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:21:15 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:21:15 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:21:16 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:21:16 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:21:18 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:21:18 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:21:18 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:21:18 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:21:21 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:21:21 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:21:21 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:21:21 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:21:31 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:21:31 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:21:31 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:21:31 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:21:34 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:21:34 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:21:34 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:21:34 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:21:43 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:21:43 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:21:43 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:21:43 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:21:46 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:21:46 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:21:46 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:21:47 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:21:55 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:21:55 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:21:55 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:21:55 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:21:57 [[31merror[39m]: 	getProductById failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/07.productConroller.js"}
+2022-03-28 21:23:01 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:23:01 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:23:01 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:23:01 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:23:04 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:23:04 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:23:04 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:23:04 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:23:24 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:23:24 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:23:24 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:23:24 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:23:27 [[31merror[39m]: 	getProductById failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/07.productConroller.js"}
+2022-03-28 21:24:11 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:24:11 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:24:11 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:24:11 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:24:13 [[31merror[39m]: 	getAll failed. No data returned from the query. 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/07.productDal.js"}
+2022-03-28 21:24:13 [[31merror[39m]: 	getProductById failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/07.productConroller.js"}
+2022-03-28 21:24:20 [[31merror[39m]: 	getAll failed. No data returned from the query. 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/07.productDal.js"}
+2022-03-28 21:24:20 [[31merror[39m]: 	getProductById failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/07.productConroller.js"}
+2022-03-28 21:24:44 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:24:44 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:24:44 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:24:44 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:24:47 [[31merror[39m]: 	getAll failed. No data returned from the query. 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/07.productDal.js"}
+2022-03-28 21:24:47 [[31merror[39m]: 	getProductById failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/07.productConroller.js"}
+2022-03-28 21:25:54 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:25:54 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:25:54 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:25:54 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:25:56 [[31merror[39m]: 	getById failed. No data returned from the query. 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/07.productDal.js"}
+2022-03-28 21:25:56 [[31merror[39m]: 	getProductById failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/07.productConroller.js"}
+2022-03-28 21:27:40 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:27:40 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:27:40 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:27:40 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:27:43 [[31merror[39m]: 	getById failed. No data returned from the query. 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/07.productDal.js"}
+2022-03-28 21:27:43 [[31merror[39m]: 	getProductById failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/07.productConroller.js"}
+2022-03-28 21:28:15 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:28:15 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:28:15 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:28:15 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:28:17 [[31merror[39m]: 	getById failed. No data returned from the query. 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/07.productDal.js"}
+2022-03-28 21:28:17 [[31merror[39m]: 	getProductById failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/07.productConroller.js"}
+2022-03-28 21:28:37 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:28:37 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:28:37 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:28:37 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:28:41 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:28:41 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:28:41 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:28:41 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:28:44 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:28:44 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:28:45 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:28:45 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:28:49 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:28:49 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:28:49 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:28:49 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:28:52 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:28:52 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:28:52 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:28:52 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:28:55 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:28:55 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:28:55 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:28:55 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:28:58 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:28:58 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:28:58 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:28:58 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:29:04 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:29:04 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:29:04 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:29:04 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:29:06 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:29:06 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:29:07 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:29:07 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:29:10 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:29:10 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:29:10 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:29:10 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:29:30 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:29:30 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:29:31 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:29:31 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:29:34 [[31merror[39m]: 	getById failed. No data returned from the query. 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/07.productDal.js"}
+2022-03-28 21:29:34 [[31merror[39m]: 	getProductById failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/07.productConroller.js"}
+2022-03-28 21:31:14 [[31merror[39m]: 	getUserById failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/03.userController.js"}
+2022-03-28 21:31:57 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:31:57 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:31:57 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:31:57 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:31:59 [[31merror[39m]: 	getById failed. No data returned from the query. 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/03.userDal.js"}
+2022-03-28 21:31:59 [[31merror[39m]: 	getUserById failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/03.userController.js"}
+2022-03-28 21:32:33 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:32:33 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:32:33 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:32:33 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:32:37 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:32:37 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:32:38 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:32:38 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:32:45 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:32:45 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:32:45 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:32:45 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:32:51 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:32:51 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:32:51 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:32:51 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:32:54 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:32:54 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:32:54 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:32:54 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:33:00 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:33:00 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:33:00 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:33:00 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:33:03 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:33:03 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:33:04 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:33:04 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:33:06 [[31merror[39m]: 	getById failed. No data returned from the query. 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/03.userDal.js"}
+2022-03-28 21:33:06 [[31merror[39m]: 	getUserById failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/03.userController.js"}
+2022-03-28 21:34:20 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:34:20 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:34:21 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:34:21 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:34:24 [[31merror[39m]: 	getById failed. No data returned from the query. 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/03.userDal.js"}
+2022-03-28 21:34:24 [[31merror[39m]: 	getUserById failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/03.userController.js"}
+2022-03-28 21:35:50 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:35:50 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:35:51 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:35:51 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:35:53 [[31merror[39m]: 	getById failed. No data returned from the query. 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/03.userDal.js"}
+2022-03-28 21:35:53 [[31merror[39m]: 	getUserById failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/03.userController.js"}
+2022-03-28 21:36:49 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:36:49 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:36:49 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:36:49 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:37:12 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:37:12 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:37:12 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:37:12 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 21:38:06 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:38:06 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:38:06 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:38:06 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 21:39:01 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:39:01 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:39:01 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:39:01 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 21:39:56 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:39:56 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:39:57 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:39:57 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 21:48:33 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:48:33 [[31merror[39m]: 	Couldn't connect to database:star2online Cannot read properties of undefined (reading 'replace') 
+2022-03-28 21:48:33 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:48:33 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 21:49:41 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:49:41 [[31merror[39m]: 	Couldn't connect to database:star2online Cannot read properties of undefined (reading 'replace') 
+2022-03-28 21:49:41 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:49:41 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 21:49:47 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:49:47 [[31merror[39m]: 	Couldn't connect to database:star2online Cannot read properties of undefined (reading 'replace') 
+2022-03-28 21:49:47 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:49:47 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 21:55:04 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:55:04 [[31merror[39m]: 	Couldn't connect to database:star2online Invalid connection details: undefined 
+2022-03-28 21:55:04 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:55:04 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 21:55:18 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:55:18 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:55:18 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:55:19 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 21:55:25 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:55:25 [[31merror[39m]: 	Couldn't connect to database:star2online Invalid connection details: undefined 
+2022-03-28 21:55:25 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:55:25 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 21:55:30 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:55:30 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 21:55:30 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:55:30 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 21:55:42 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:56:20 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:57:20 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:57:20 [[31merror[39m]: 	Couldn't connect to database:star2online Option "host" is not recognized. 
+2022-03-28 21:57:20 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:57:20 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 21:57:38 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:57:38 [[31merror[39m]: 	Couldn't connect to database:star2online Option "host" is not recognized. 
+2022-03-28 21:57:38 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:57:38 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 21:57:51 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:57:51 [[31merror[39m]: 	Couldn't connect to database:star2online Option "host" is not recognized. 
+2022-03-28 21:57:51 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:57:51 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 21:58:00 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:58:00 [[31merror[39m]: 	Couldn't connect to database:star2online Option "host" is not recognized. 
+2022-03-28 21:58:00 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:58:00 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 21:58:14 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:58:14 [[31merror[39m]: 	Couldn't connect to database:star2online Option "host" is not recognized. 
+2022-03-28 21:58:14 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:58:14 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 21:59:23 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 21:59:23 [[31merror[39m]: 	Couldn't connect to database:star2online Option "host" is not recognized. 
+2022-03-28 21:59:24 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 21:59:24 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 22:00:02 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 22:00:02 [[31merror[39m]: 	Couldn't connect to database:star2online pgp(...).connect is not a function 
+2022-03-28 22:00:02 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 22:00:02 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 22:01:45 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 22:01:45 [[31merror[39m]: 	Couldn't connect to database:star2online db is not a function 
+2022-03-28 22:01:46 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 22:01:46 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 22:03:16 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 22:03:16 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 22:03:16 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 22:03:16 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 22:03:40 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 22:03:40 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 22:03:40 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 22:03:40 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 22:03:55 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 22:03:55 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 22:03:55 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 22:03:55 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 22:03:56 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 22:03:56 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 22:03:57 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 22:03:57 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 22:04:06 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 22:04:06 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 22:04:06 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 22:04:06 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 22:05:10 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 22:05:10 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 22:05:10 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 22:05:10 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 22:05:14 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 22:05:14 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 22:05:14 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 22:05:14 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 22:07:12 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 22:07:12 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 22:07:12 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 22:07:12 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 22:07:17 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 22:07:17 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 22:07:17 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 22:07:17 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 22:07:39 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 22:08:03 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 22:08:26 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 22:08:36 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 22:08:48 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 22:09:13 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 22:09:48 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 22:10:10 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 22:10:10 [[31merror[39m]: 	Couldn't connect to database:star2online db.connect is not a function 
+2022-03-28 22:10:11 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 22:10:11 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 22:10:21 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 22:10:21 [[31merror[39m]: 	Couldn't connect to database:star2online db.connect is not a function 
+2022-03-28 22:10:21 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 22:10:21 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 22:12:38 [[33mwarn[39m]: 	Trying to connect postgresql database... 
+2022-03-28 22:13:18 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 22:13:18 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 22:13:39 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 22:13:39 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 22:15:17 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 22:15:17 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 22:15:17 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 22:15:26 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 22:15:26 [[32minfo[39m]: 	Connected to the database:star2online. 
+2022-03-28 22:15:26 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 22:15:54 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 22:15:54 [[32minfo[39m]: 	Connected to the postgresql database:star2online. 
+2022-03-28 22:15:54 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 22:16:04 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 22:16:04 [[32minfo[39m]: 	Connected to the postgresql database =star2online. 
+2022-03-28 22:16:04 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 22:16:15 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 22:16:15 [[32minfo[39m]: 	Connected to the postgresql database: star2online. 
+2022-03-28 22:16:15 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 22:16:21 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 22:16:21 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-28 22:16:21 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 22:16:29 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 22:16:29 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-28 22:16:29 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 22:16:44 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 22:17:03 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 22:17:03 [[31merror[39m]: 	Couldn't connect to postgresql database: star2online connect ECONNREFUSED 127.0.0.1:5432 
+2022-03-28 22:17:03 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 22:17:35 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 22:17:35 [[31merror[39m]: 	Couldn't connect to postgresql database: star2online. connect ECONNREFUSED 127.0.0.1:5432 
+2022-03-28 22:17:35 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 22:17:49 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 22:17:49 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-28 22:17:49 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-28 22:18:39 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-28 22:18:39 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-28 22:18:39 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 06:49:34 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 06:49:34 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 06:49:34 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 06:52:20 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 06:52:20 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 06:52:20 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 06:52:46 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 06:52:46 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 06:52:46 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 06:56:41 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 06:56:42 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 06:56:42 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 06:56:58 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 06:56:59 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 06:56:59 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:02:28 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:02:28 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:02:28 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:02:34 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:02:34 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:02:34 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:03:00 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:03:00 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:03:00 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:07:32 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:07:32 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:07:32 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:07:59 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:07:59 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:07:59 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:08:14 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:08:14 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:08:14 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:08:25 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:08:25 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:08:25 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:08:34 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:08:34 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:08:34 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:08:50 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:08:50 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:08:50 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:08:51 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:08:51 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:08:51 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:08:57 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:08:57 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:08:57 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:13:13 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:13:13 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:13:13 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:13:21 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:13:21 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:13:21 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:13:37 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:13:37 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:13:37 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:13:52 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:13:53 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:13:53 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:14:15 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:14:15 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:14:15 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:16:18 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:16:18 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:16:18 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:24:04 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:24:05 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:24:05 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:25:06 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:25:06 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:25:06 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:32:44 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:32:44 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:32:44 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:33:26 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:33:26 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:33:26 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:37:09 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:37:09 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:37:09 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:37:26 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:37:26 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:37:27 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:37:40 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:37:40 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:37:40 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:38:21 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:38:21 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:38:21 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:39:28 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:39:28 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:39:28 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:39:35 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:39:35 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:39:35 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:39:57 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:39:57 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:39:57 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:40:28 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:40:28 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:40:28 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:40:57 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:40:57 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:40:57 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:41:27 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:41:27 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:41:27 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:41:36 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:41:36 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:41:36 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:42:38 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:42:38 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:42:38 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:42:58 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:42:58 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:42:58 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:42:58 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:42:58 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:42:58 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:43:06 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:43:06 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:43:06 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:54:43 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:54:43 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:54:43 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:56:09 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:56:09 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:56:09 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 07:56:16 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 07:56:16 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 07:56:16 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:26:01 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:26:01 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:26:01 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:26:23 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:26:23 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:26:23 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:26:50 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:26:50 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:26:50 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:32:59 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:32:59 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:32:59 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:36:17 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:36:17 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:36:17 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:36:39 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:36:39 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:36:39 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:37:06 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:37:07 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:37:07 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:37:54 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:37:54 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:37:54 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:38:26 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:38:26 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:38:26 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:39:36 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:39:36 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:39:36 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:39:57 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:39:57 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:39:57 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:40:18 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:40:18 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:40:18 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:43:03 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:43:03 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:43:03 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:43:24 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:43:24 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:43:24 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:45:24 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:45:24 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:45:24 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:45:56 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:45:56 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:45:56 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:46:07 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:46:07 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:46:07 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:46:26 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:46:26 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:46:26 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:46:42 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:46:42 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:46:42 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:46:52 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:46:52 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:46:52 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:50:04 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:50:04 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:50:04 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:50:22 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:50:22 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:50:22 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:50:53 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:50:53 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:50:53 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:51:02 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:51:02 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:51:02 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:51:39 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:51:39 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:51:39 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:51:47 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:51:47 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:51:47 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:52:18 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:52:18 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:52:18 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:52:35 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:52:35 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:52:35 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:53:28 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:53:28 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:53:28 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:53:42 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:53:42 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:53:42 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:54:01 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:54:01 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:54:01 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:54:57 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:54:57 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:54:57 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:55:11 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:55:11 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:55:11 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:55:29 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:55:29 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:55:29 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:58:20 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:58:20 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:58:20 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:58:36 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:58:36 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:58:36 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:59:22 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:59:22 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 08:59:22 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:59:51 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 08:59:51 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 08:59:51 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:01:08 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 09:01:08 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 09:01:08 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:01:16 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 09:01:16 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:01:16 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 09:12:48 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 09:12:48 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:12:48 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 09:13:03 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 09:13:03 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:13:03 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 09:13:19 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 09:13:19 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:13:19 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 09:13:29 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 09:13:29 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:13:29 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 09:15:44 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 09:15:44 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:15:44 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 09:26:19 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 09:26:19 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 09:26:19 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:26:49 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 09:26:49 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 09:26:50 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:27:17 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 09:27:17 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 09:27:17 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:27:57 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 09:27:57 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:27:57 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 09:31:15 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 09:31:15 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:31:15 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 09:31:29 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 09:31:29 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:31:29 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 09:32:50 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 09:32:50 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 09:32:50 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:33:02 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 09:33:02 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 09:33:02 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:33:13 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 09:33:13 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 09:33:13 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:33:34 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 09:33:35 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:33:35 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 09:37:17 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 09:37:18 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:37:18 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 09:37:49 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 09:37:50 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 09:37:50 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:39:24 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 09:39:24 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 09:39:24 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:40:57 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 09:40:57 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 09:40:57 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:41:43 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 09:41:44 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:41:44 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 09:42:16 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 09:42:16 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 09:42:16 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:43:09 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 09:43:10 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 09:43:10 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:43:25 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 09:43:25 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 09:43:25 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:44:13 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 09:44:13 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 09:44:13 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:45:42 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 09:45:42 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:45:42 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 09:45:59 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 09:45:59 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 09:45:59 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:46:46 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 09:46:46 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 09:46:46 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 10:05:33 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 10:05:33 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 10:05:33 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 10:14:27 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 10:14:27 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 10:14:27 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 10:14:58 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 10:14:58 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 10:14:58 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 10:41:19 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-29 10:41:19 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-29 10:41:19 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-29 10:41:38 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-29 10:41:38 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-29 10:41:38 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-29 10:41:46 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-29 10:41:46 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-29 10:41:46 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-29 10:41:51 [[31merror[39m]: 	error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-29 10:41:51 [[33mwarn[39m]: 	warn 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-29 10:41:51 [[32minfo[39m]: 	info 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/test.js"}
+2022-03-29 10:42:43 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 10:42:43 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 10:42:43 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 10:54:00 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 10:54:00 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 10:54:00 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 10:55:32 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 10:55:32 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 10:55:32 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 10:59:53 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 10:59:54 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 10:59:54 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 11:03:18 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 11:03:19 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 11:03:19 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 11:04:08 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 11:04:09 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 11:04:09 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 11:07:49 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 11:07:49 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 11:07:49 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 11:09:28 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 11:09:28 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 11:09:28 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 11:09:43 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 11:09:43 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 11:09:43 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 11:11:03 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 11:11:03 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 11:11:03 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 11:13:27 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 11:13:27 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 11:13:27 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 11:14:35 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 11:14:36 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 11:14:36 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 11:18:15 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 11:18:15 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 11:18:15 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 11:19:13 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 11:19:14 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 11:19:14 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 11:19:23 [[31merror[39m]: 	create failed. null value in column "image_name" of relation "images" violates not-null constraint 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/09.imagesDal.js"}
+2022-03-29 11:19:23 [[31merror[39m]: 	create failed. null value in column "image_name" of relation "images" violates not-null constraint 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/09.imagesDal.js"}
+2022-03-29 11:19:57 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 11:19:57 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 11:19:57 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 11:22:31 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 11:22:31 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 11:22:32 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 11:22:56 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 11:22:57 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 11:22:57 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 11:23:31 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 11:23:31 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 11:23:31 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 11:24:13 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 11:24:13 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 11:24:14 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 11:25:18 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 11:25:18 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 11:25:18 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 11:26:04 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 11:26:04 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 11:26:04 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 11:26:14 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 11:26:14 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 11:26:14 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 11:26:38 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 11:26:38 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 11:26:38 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 11:42:17 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 11:42:17 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 11:42:17 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 11:43:28 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 11:43:28 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 11:43:28 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 11:43:58 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 11:43:58 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 11:43:58 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 12:25:11 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 12:25:11 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 12:25:11 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-29 13:32:54 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 13:32:54 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-29 13:33:13 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 13:33:13 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 13:33:13 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-29 13:33:33 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 13:33:33 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 13:33:33 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-29 13:34:13 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 13:34:13 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 13:34:13 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-29 13:35:38 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 13:35:38 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 13:35:38 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-29 13:36:02 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 13:36:23 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 13:36:28 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 13:37:08 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 13:39:56 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 13:40:56 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 13:41:43 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 13:42:25 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 13:42:25 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-29 13:43:16 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 13:43:16 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 13:43:16 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 13:44:49 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 13:44:49 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 13:44:49 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 13:47:05 [[31merror[39m]: 	getById failed. there is no parameter $1 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/09.imagesDal.js"}
+2022-03-29 13:47:05 [[31merror[39m]: 	getByImageId failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/09.imagesController.js"}
+2022-03-29 13:48:36 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 13:48:36 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 13:48:36 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 13:49:16 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 13:49:17 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 13:49:17 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 13:51:38 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 13:51:39 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 13:51:39 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 13:52:12 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 13:52:12 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 13:52:12 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 13:52:38 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 13:52:38 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 13:52:38 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 13:53:39 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 13:53:39 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 13:53:39 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 13:58:26 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 13:58:26 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 13:58:26 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 13:59:23 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 13:59:23 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 13:59:23 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 14:00:37 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 14:00:37 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 14:00:37 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 14:01:07 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 14:01:07 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 14:01:07 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 14:02:03 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 14:02:03 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 14:02:03 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 14:03:23 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 14:03:23 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 14:03:23 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 14:03:49 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 14:03:49 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 14:03:49 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 14:04:14 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 14:04:14 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 14:04:14 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 14:04:20 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 14:04:20 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 14:04:20 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 14:05:00 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 14:05:00 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 14:05:00 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 14:05:47 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 14:05:47 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 14:05:47 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 14:06:44 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 14:06:44 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 14:06:45 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 14:07:48 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 14:07:48 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 14:07:48 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 14:10:17 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 14:10:17 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 14:10:17 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 14:10:31 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 14:10:31 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 14:10:31 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 14:10:58 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 14:10:59 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 14:10:59 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 14:11:14 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 14:11:14 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 14:11:14 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 14:23:18 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 14:23:18 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 14:23:18 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 14:29:05 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 14:29:05 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 14:29:05 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 14:30:07 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 14:30:07 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 14:30:07 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 14:30:34 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 14:30:34 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 14:30:34 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 14:31:18 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 14:31:18 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 14:31:18 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 14:32:28 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 14:32:28 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 14:32:28 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 14:32:38 [[31merror[39m]: 	create failed. insert or update on table "images" violates foreign key constraint "fk_product" 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/09.imagesDal.js"}
+2022-03-29 14:33:44 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 14:33:44 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 14:33:44 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 14:33:50 [[31merror[39m]: 	create failed. insert or update on table "images" violates foreign key constraint "fk_product" 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/09.imagesDal.js"}
+2022-03-29 14:34:18 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 14:34:19 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 14:34:19 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 14:34:21 [[31merror[39m]: 	create failed. insert or update on table "images" violates foreign key constraint "fk_product" 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/09.imagesDal.js"}
+2022-03-29 14:37:46 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 14:37:46 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 14:37:46 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 14:37:51 [[31merror[39m]: 	create failed. insert or update on table "images" violates foreign key constraint "fk_product" 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/09.imagesDal.js"}
+2022-03-29 14:37:51 [[31merror[39m]: 	createImage failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/09.imagesController.js"}
+2022-03-29 14:38:12 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 14:38:12 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 14:38:12 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 14:40:37 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 14:40:37 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 14:40:37 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 14:41:53 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 14:41:53 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 14:41:53 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 14:56:42 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 14:56:42 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 14:56:42 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 15:10:43 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 15:10:43 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 15:10:43 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 17:37:25 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 17:37:25 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 17:37:25 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 17:44:01 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 17:44:01 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 17:44:01 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 17:44:46 [[31merror[39m]: 	create failed. insert or update on table "images" violates foreign key constraint "fk_product" 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/09.imagesDal.js"}
+2022-03-29 17:44:46 [[31merror[39m]: 	createImage failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/09.imagesController.js"}
+2022-03-29 17:44:46 [[31merror[39m]: 	create failed. insert or update on table "images" violates foreign key constraint "fk_product" 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/09.imagesDal.js"}
+2022-03-29 18:02:17 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 18:02:18 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 18:02:18 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-29 18:02:32 [[31merror[39m]: 	create failed. insert or update on table "images" violates foreign key constraint "fk_product" 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/09.imagesDal.js"}
+2022-03-29 18:02:32 [[31merror[39m]: 	createImage failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/09.imagesController.js"}
+2022-03-29 18:02:32 [[31merror[39m]: 	create failed. insert or update on table "images" violates foreign key constraint "fk_product" 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/09.imagesDal.js"}
+2022-03-29 18:02:32 [[31merror[39m]: 	createImage failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/09.imagesController.js"}
+2022-03-29 18:02:32 [[31merror[39m]: 	create failed. insert or update on table "images" violates foreign key constraint "fk_product" 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/09.imagesDal.js"}
+2022-03-29 18:02:32 [[31merror[39m]: 	createImage failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/09.imagesController.js"}
+2022-03-29 18:03:40 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 18:03:40 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 18:03:40 [[31merror[39m]: 	Elasticsearch is failed!!! connect ECONNREFUSED 127.0.0.1:9200 
+2022-03-29 18:05:06 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 18:05:06 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 18:05:06 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 18:07:12 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 18:07:12 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 18:07:12 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 18:07:16 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 18:07:16 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 18:07:16 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 18:09:23 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 18:09:23 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 18:09:23 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 18:10:29 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 18:10:29 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 18:10:29 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 18:46:52 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 18:46:52 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 18:46:52 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 18:57:00 [[31merror[39m]: 	getProductById failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/07.productConroller.js"}
+2022-03-29 18:58:23 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 18:58:29 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 18:58:30 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 18:59:16 [[31merror[39m]: 	getProductById failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/07.productConroller.js"}
+2022-03-29 18:59:47 [[31merror[39m]: 	getProductById failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/07.productConroller.js"}
+2022-03-29 19:01:20 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 19:01:20 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 19:01:20 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 19:01:29 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 19:01:29 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 19:01:29 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 19:28:14 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 19:28:14 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 19:28:14 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 19:40:52 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 19:40:52 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 19:40:52 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 19:55:27 [[31merror[39m]: 	updateCount failed. syntax error at or near "price" 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/08.sepetDal.js"}
+2022-03-29 19:55:27 [[31merror[39m]: 	createSepet failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/08.sepetController.js"}
+2022-03-29 19:55:46 [[31merror[39m]: 	updateCount failed. syntax error at or near "price" 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/08.sepetDal.js"}
+2022-03-29 19:55:46 [[31merror[39m]: 	createSepet failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/08.sepetController.js"}
+2022-03-29 19:57:59 [[31merror[39m]: 	updateCount failed. syntax error at or near "price" 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/08.sepetDal.js"}
+2022-03-29 19:57:59 [[31merror[39m]: 	createSepet failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/08.sepetController.js"}
+2022-03-29 20:00:58 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 20:00:59 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 20:00:59 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 20:01:11 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 20:01:11 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 20:01:12 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 20:01:41 [[31merror[39m]: 	updateCount failed. syntax error at or near "price" 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/08.sepetDal.js"}
+2022-03-29 20:01:41 [[31merror[39m]: 	createSepet failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/08.sepetController.js"}
+2022-03-29 20:07:43 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 20:07:44 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 20:07:44 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 20:08:14 [[31merror[39m]: 	updateCount failed. syntax error at or near "price" 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/08.sepetDal.js"}
+2022-03-29 20:08:14 [[31merror[39m]: 	createSepet failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/08.sepetController.js"}
+2022-03-29 20:10:12 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 20:10:12 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 20:10:12 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 20:13:59 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 20:13:59 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 20:13:59 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 20:23:15 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 20:23:15 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 20:23:15 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 20:33:15 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 20:33:15 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 20:33:15 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 20:37:30 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 20:37:30 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 20:37:30 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 20:37:42 [[31merror[39m]: 	getByImageId failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/09.imagesController.js"}
+2022-03-29 20:47:39 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 20:47:40 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 20:47:40 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 22:09:26 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 22:09:26 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 22:09:26 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 22:11:16 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 22:11:16 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 22:11:16 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 22:13:21 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 22:13:21 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 22:13:21 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 22:14:02 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 22:14:02 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 22:14:02 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 22:14:12 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 22:14:12 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 22:14:12 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 22:14:15 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 22:14:15 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 22:14:15 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 22:14:31 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 22:14:31 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 22:14:31 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 22:14:32 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 22:14:32 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 22:14:32 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 22:14:34 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 22:14:34 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 22:14:34 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 22:14:41 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 22:14:41 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 22:14:41 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 22:15:58 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 22:15:58 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 22:15:58 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 22:30:07 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 22:30:07 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-29 22:30:07 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 22:36:32 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-29 22:36:32 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-29 22:36:32 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-30 00:29:42 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-30 00:29:42 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-30 00:29:42 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-30 00:42:33 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-30 00:42:33 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-30 00:42:33 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-30 01:17:46 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-30 01:17:46 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-30 01:17:46 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-30 01:17:56 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-30 01:17:56 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-30 01:17:56 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-30 01:25:02 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-30 01:25:02 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-30 01:25:02 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-30 01:46:09 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-30 01:46:09 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-30 01:46:09 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-30 01:47:45 [[31merror[39m]: 	getByCategoryId failed. invalid input syntax for type integer: "elektronik" 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/07.productDal.js"}
+2022-03-30 01:47:45 [[31merror[39m]: 	getByCategoryId failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/07.productConroller.js"}
+2022-03-30 01:51:40 [[31merror[39m]: 	getProductById failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/07.productConroller.js"}
+2022-03-30 02:05:33 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-30 02:05:33 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-30 02:05:33 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-30 02:05:49 [[31merror[39m]: 	getById failed. Multiple rows were not expected. 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/07.productDal.js"}
+2022-03-30 02:05:49 [[31merror[39m]: 	getByCategoryId failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/07.productConroller.js"}
+2022-03-30 02:06:53 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-30 02:06:54 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-30 02:06:54 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-30 02:45:23 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-30 02:45:23 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-30 02:45:23 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-30 03:27:00 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-30 03:27:00 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-30 03:27:00 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-30 04:18:52 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-30 04:18:53 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-30 04:18:53 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-30 04:21:41 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-30 04:21:41 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-30 04:21:41 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-30 04:24:59 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-30 04:24:59 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-30 04:24:59 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-30 04:30:29 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-30 04:30:29 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-30 04:30:29 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-30 04:30:47 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-30 04:30:47 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-30 04:30:47 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-30 04:32:15 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-30 04:32:15 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-30 04:32:15 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-30 04:36:56 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-30 04:36:56 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-30 04:36:56 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-30 04:47:48 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-30 04:47:48 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-30 04:47:48 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-30 04:50:35 [[31merror[39m]: 	create failed. value too long for type character varying(50) 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/08.sepetDal.js"}
+2022-03-30 04:50:35 [[31merror[39m]: 	createSepet failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/08.sepetController.js"}
+2022-03-30 04:50:43 [[31merror[39m]: 	create failed. value too long for type character varying(50) 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/08.sepetDal.js"}
+2022-03-30 04:50:43 [[31merror[39m]: 	createSepet failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/08.sepetController.js"}
+2022-03-30 04:50:59 [[31merror[39m]: 	create failed. value too long for type character varying(50) 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/08.sepetDal.js"}
+2022-03-30 04:50:59 [[31merror[39m]: 	createSepet failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/08.sepetController.js"}
+2022-03-30 04:52:04 [[31merror[39m]: 	create failed. value too long for type character varying(50) 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/dataAccess/08.sepetDal.js"}
+2022-03-30 04:52:04 [[31merror[39m]: 	createSepet failed. query error 		 details:{"file":"/home/templar/Public/workspace/e-commerce-service/controllers/08.sepetController.js"}
+2022-03-30 05:06:11 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-30 05:06:11 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-30 05:06:11 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-30 05:06:57 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-30 05:06:57 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-30 05:06:57 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-30 05:07:17 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-30 05:07:17 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-30 05:07:17 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-30 05:07:17 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-30 05:07:17 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-30 05:07:17 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-30 05:07:53 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-30 05:07:54 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-30 05:07:54 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-30 05:08:19 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-30 05:08:19 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-30 05:08:19 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-30 05:08:36 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-30 05:08:36 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-30 05:08:36 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-30 05:43:38 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-30 05:43:38 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-30 05:43:38 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-30 06:05:00 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-30 06:05:00 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
+2022-03-30 06:05:00 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-30 06:05:07 [[32minfo[39m]: 	Server listening at port: http://localhost:3000 
+2022-03-30 06:05:07 [[32minfo[39m]: 	Elasticsearch is running... name:monster, cluster_name:elasticsearch 
+2022-03-30 06:05:07 [[32minfo[39m]: 	Connected to the postgresql database: star2online 
