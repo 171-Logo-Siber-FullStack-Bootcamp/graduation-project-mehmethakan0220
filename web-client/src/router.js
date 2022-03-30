@@ -29,6 +29,11 @@ const routes =[
         component: ()=>import("@/components/AllCategories")
     },
     {
+        name:"AllCategoriesQuery",
+        path:"/categories/:id",
+        component: ()=>import("@/components/AllCategoriesQuery")
+    },
+    {
         name:"Popular",
         path:"/popular",
         component: ()=>import("@/components/ProductSection")

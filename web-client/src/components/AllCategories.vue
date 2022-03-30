@@ -16,6 +16,7 @@ export default {
     data() {
         return {
             allCategories: [],
+            products:[],
         }
     },
 
@@ -49,7 +50,7 @@ export default {
             }
         },
     redirector(category){
-        console.log(category);
+        this.$router.push({ name: "AllCategoriesQuery", params: { id: category.path } })
     }
     }
 }
