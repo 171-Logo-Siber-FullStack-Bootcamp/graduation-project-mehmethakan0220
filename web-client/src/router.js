@@ -47,6 +47,11 @@ const routes =[
         name:"LoginPage",
         path:"/login",
         component:()=>import("@/components/LoginPage")
+    },
+    {
+        name:"SearchElasticResults",
+        path:"/elasticsearch/:query",
+        component:()=>import("@/components/SearchElasticResults")
     }
 ]
 

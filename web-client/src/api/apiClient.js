@@ -45,6 +45,11 @@ async function getProductsByCategoryId(url) {
 async function getProductsByCategoryPath(url) {
   return await getData(url);
 }
+
+async function getProductsByElasticSearch(url,data) {
+  return await postData(url,data);
+}
+
 async function addToUsersCard(url,data) {
   return await postData(url,data);
 }
@@ -141,7 +146,7 @@ export const Api = {
   getProductById: async (id) => await  getProducts("/api/product/"+id),
   getProductsByCategoryId: async (id) => await getProductsByCategoryId("/api/product/categoryid/"+id),
   getProductsByCategoryPath: async (path) => await getProductsByCategoryPath("/api/product/categorypath/"+path),
-
+  getProductsByElasticSearch: async (data) => await getProductsByElasticSearch("/api/products",data),
   
   getCategories: async () => await  getCategories("/api/product/category" ),
   getCategoriesTree: async () => await  getCategoriesTree("/api/product/category/detailed" ),
