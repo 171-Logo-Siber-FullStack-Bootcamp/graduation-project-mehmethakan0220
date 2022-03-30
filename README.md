@@ -39,7 +39,7 @@ git clone git@github.com:171-Logo-Siber-FullStack-Bootcamp/graduation-project-me
 
 
 
-### Secure pasword storing hast+salt
+### Secure pasword storing hash+salt
 
 ```sql
 let sql = "INSERT INTO admin_user(email, pass, first_name, last_name, type_id) VALUES($1, crypt($2, gen_salt('bf', 12)), $3, $4, $5) RETURNING id, email, first_name, last_name";
