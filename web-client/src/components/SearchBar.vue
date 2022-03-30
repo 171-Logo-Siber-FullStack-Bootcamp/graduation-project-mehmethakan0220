@@ -35,18 +35,10 @@ export default{
 
     methods:{
         redirectToElasticResult(event){
-           
             this.$router.push({name:"SearchElasticResults", params: { query: event.target.value }})
         }
     },
-//     watch: {
-   
-//     queryChange(newQuestion, oldQuestion) {
-//       if (newQuestion.indexOf('?') > -1) {
-//         this.getAnswer()
-//       }
-//     }
-//   },
+
 }
 
 </script>

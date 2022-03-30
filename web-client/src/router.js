@@ -52,6 +52,11 @@ const routes =[
         name:"SearchElasticResults",
         path:"/elasticsearch/:query",
         component:()=>import("@/components/SearchElasticResults")
+    },
+    {
+        name:"CategorySearch",
+        path:"/categorysearch/:query",
+        component:()=>import("@/components/CategorySearch")
     }
 ]
 
