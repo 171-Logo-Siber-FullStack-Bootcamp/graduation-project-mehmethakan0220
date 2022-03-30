@@ -27,14 +27,9 @@ export default{
     components:{
         Product,
     }
-    
 }
-
 </script>
 
 
-
 <style>
-
-
 </style>

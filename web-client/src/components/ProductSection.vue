@@ -26,7 +26,6 @@ export default {
         Api.getProducts().then(res => {
             this.products = res;
         });
-    
     },
     components: { Product }
 }

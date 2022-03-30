@@ -22,7 +22,6 @@ export default {
                 quantity:1,
                 discount_id:null
             }
-            console.log(product);
             Api.addToUsersCard(product).then(res=>{
                 console.log("eklendi cevap:",res)
                 this.$router.push({name:"CardDetails"})

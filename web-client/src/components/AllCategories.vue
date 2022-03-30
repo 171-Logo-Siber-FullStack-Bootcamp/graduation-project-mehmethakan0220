@@ -22,7 +22,6 @@ export default {
 
     created() {
         Api.getCategoriesTree().then(res => {
-            console.log(res)
             this.allCategories = res
         })
     },

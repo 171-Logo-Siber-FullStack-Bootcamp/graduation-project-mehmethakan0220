@@ -70,8 +70,6 @@ export default {
             this.images = res;
         })
         })
-        
-
     },
     components: {
     RelatedProduct,

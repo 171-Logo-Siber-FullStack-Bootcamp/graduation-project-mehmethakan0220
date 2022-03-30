@@ -25,14 +25,12 @@
 
 
 export default{
-
     data(){
         return{
             products:[],
             
         }
     },
-
     methods:{
         redirectToElasticResult(event){
             this.$router.push({name:"SearchElasticResults", params: { query: event.target.value }})

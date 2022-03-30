@@ -31,8 +31,6 @@ export default {
     },
     mounted() {
         Api.getProductsByCategoryPath(this.$route.params.query).then(res => {
-            console.log(this.$route.params.query)
-            console.log("categorysaerch response:",res);
             this.products = res;
         })
     },

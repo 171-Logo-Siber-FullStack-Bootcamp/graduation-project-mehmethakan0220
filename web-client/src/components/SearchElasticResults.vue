@@ -31,8 +31,6 @@ export default {
     },
     mounted() {
         Api.getProductsByElasticSearch(this.$route.params.query).then(res => {
-            console.log(this.$route.params.query)
-            console.log("elasticsearch reaponse:", res.hits.hits);
             const filtered = res.hits.hits.map(item => {
                 return item._source;
             })
@@ -49,8 +47,6 @@ export default {
     methods:{
         forceUpdate(){
             Api.getProductsByElasticSearch(this.$route.params.query).then(res => {
-            console.log(this.$route.params.query)
-            console.log("elasticsearch reaponse:", res.hits.hits);
             const filtered = res.hits.hits.map(item => {
                 return item._source;
             })

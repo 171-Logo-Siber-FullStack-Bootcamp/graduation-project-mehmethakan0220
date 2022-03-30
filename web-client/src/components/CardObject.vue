@@ -33,7 +33,6 @@ export default{
     mounted(){
         Api.getAllImagesByProductId(this.product.product_id).then(res=>{
             this.images = res;
-            console.log("Card object resimlerim=",res)
     })}
 }
 </script>

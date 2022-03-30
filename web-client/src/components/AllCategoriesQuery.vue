@@ -28,7 +28,6 @@ export default {
         
         Api.getProductsByCategoryPath(this.$route.params.id).then(res => {
                 this.products = res;
-                console.log(res);
         });
     },
 }

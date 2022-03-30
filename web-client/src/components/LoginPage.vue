@@ -56,7 +56,6 @@ export default{
     tryLogin(){
       if(this.user.email !="" &&this.user.password !=""){
         Api.login(this.user).then(res=>{
-          console.log("Login page:=",res);
           if(res.id){
             window.localStorage.setItem("processId", res.id);
             this.$store.commit("setUser",res);
