@@ -27,7 +27,7 @@
 // // updateProductBySelfId(77,newProduct).then(console.log).catch(console.error);
 
 // // elastic.deleteByDocumentId(7).then(res=>{
-// //     console.log("responsun mk",res)
+// //     console.log(res)
 // // }).catch(console.error);
 
 // // elastic.deleteProductById(11).then(console.log).catch(console.error);
