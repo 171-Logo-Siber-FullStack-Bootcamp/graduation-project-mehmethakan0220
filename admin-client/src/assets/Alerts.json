@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "url":"#",
+        "button-bg":"bg-primary",
+        "icon":"fa-file-alt text-white",
+        "date":"December 12, 2019",
+        "subject":"A new monthly report is ready to download!"
+    },
+    {
+        "id":2,
+        "url":"#",
+        "button-bg":"bg-success",
+        "icon":"fa-donate text-white",
+        "date":"December 12, 2021",
+        "subject":"$290.29 has been deposited into your account!"
+    },
+    {
+        "id":3,
+        "url":"#",
+        "button-bg":"bg-warning",
+        "icon":"fa-exclamation-triangle text-white",
+        "date":"March 2, 2021",
+        "subject":"Parsing still not complited!"
+    },
+    {
+        "id":4,
+        "url":"#",
+        "button-bg":"bg-danger",
+        "icon":"fa-file-alt text-white",
+        "date":"March 2, 2022",
+        "subject":"No War Please!"
+    },
+    {
+        "id":5,
+        "url":"#",
+        "button-bg":"bg-danger",
+        "icon":"fa-file-alt text-white",
+        "date":"December 12, 2019",
+        "subject":"War alert"
+    },
+    {
+        "id":6,
+        "url":"#",
+        "button-bg":"bg-primary",
+        "icon":"fa-file-alt text-white",
+        "date":"December 12, 2019",
+        "subject":"Successful upload!"
+    },
+    {
+        "id":7,
+        "url":"#",
+        "button-bg":"bg-success",
+        "icon":"fa-file-alt text-white",
+        "date":"December 12, 2019",
+        "subject":"Alert's notifications completed."
+    }
+]
