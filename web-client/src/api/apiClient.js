@@ -33,13 +33,15 @@ async function getProducts(url) {
 async function getCategories(url) {
   return await getData(url);
 }
+async function getCategoriesTree(url) {
+  return await getData(url);
+}
 async function getCategoriesByPath(url) {
   return await getData(url);
 }
 async function getProductsByCategoryId(url) {
   return await getData(url);
 }
-
 async function addToUsersCard(url,data) {
   return await postData(url,data);
 }
@@ -137,6 +139,7 @@ export const Api = {
   getProductsByCategoryId: async (id) => await getProductsByCategoryId("/api/product/categoryid/"+id),
   
   getCategories: async () => await  getCategories("/api/product/category" ),
+  getCategoriesTree: async () => await  getCategoriesTree("/api/product/category/detailed" ),
   getCategoriesByPath: async (path) => await  getCategoriesByPath("/api/product/category/"+path),
 
   addToUsersCard:async(product) => await addToUsersCard("/api/sepet/",product),

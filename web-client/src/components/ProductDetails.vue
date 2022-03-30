@@ -28,10 +28,7 @@
                             style="max-width: 3rem"
                         />
 
-                        <button class="btn btn-outline-dark flex-shrink-0" type="button">
-                            <i class="bi-cart-fill me-1"></i>
-                            Add to cart
-                        </button>
+                        <AddToCard :productInfo="product" />
                     </div>
                 </div>
             </div>
@@ -46,6 +43,7 @@
 import RelatedProduct from '@/components/RelatedProducts.vue';
 import Api from '@/api/apiClient';
 import SimpleCarousel from '@/components/SimpleCarousel.vue';
+import AddToCard from '@/components/AddToCard.vue';
 export default {
     data() {
         return {
@@ -60,13 +58,6 @@ export default {
 
         }
     },
-
-    /**
-     *     justify-content: center;
-    align-items: center;
-    width: 100% !important;
-    height: 200px !important;
-    object-fit: fill !important;*/
     created() {
 
         Api.getProductById(this.$route.params.id).then(res => {
@@ -84,7 +75,8 @@ export default {
     },
     components: {
     RelatedProduct,
-    SimpleCarousel
+    SimpleCarousel,
+    AddToCard
 }
 }
 </script>

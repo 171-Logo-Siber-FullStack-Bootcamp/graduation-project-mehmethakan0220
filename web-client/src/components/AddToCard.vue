@@ -14,16 +14,18 @@ export default {
     methods: {
         addToCard(productInfo) {
             const product = {
-                card_owner:"12cac576-b517-4b5c-bed6-04b27456496a",
+                card_owner:this.$store.state.user.id,
                 product_id:productInfo.id,
                 title:productInfo.title,
                 descript:productInfo.descript,
-                price:productInfo.price,
+                price:Number(productInfo.price),
+                quantity:1,
                 discount_id:null
             }
             console.log(product);
             Api.addToUsersCard(product).then(res=>{
                 console.log("eklendi cevap:",res)
+                this.$router.push({name:"CardDetails"})
             })
         }
     },

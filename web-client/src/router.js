@@ -26,7 +26,7 @@ const routes =[
     {
         name:"AllCategories",
         path:"/categories",
-        component: ()=>import("@/components/CardDetails")
+        component: ()=>import("@/components/AllCategories")
     },
     {
         name:"Popular",
